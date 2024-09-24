@@ -353,7 +353,7 @@
             <!-- <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a>
                (+71) 1234567890 (+71) 1234567890
             </li> -->
-            <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>demo@makergmail.com</li>
+            <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>info@thesoftapp.online</li>
          </ul>
       </div>
    </div>
